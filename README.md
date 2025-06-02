@@ -8,7 +8,7 @@
 <li><strong>Location</strong>: Training at College of Information Technology (KAI)</li>
 </ul>
 
-<h2>Технологии</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&repeat=false&width=402&lines=Technologies" alt="Typing SVG" /></h2>
 <ul>
 <li><img src="https://simpleicons.org/icons/rust.svg" alt="Rust" width="20" height="20"> Rust</li>
 <li><img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20" height="20"> Python</li>
