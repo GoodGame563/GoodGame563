@@ -12,26 +12,27 @@
 <h3>Cyberware - Programming Interfaces</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,py,cs,go,js&theme=dark" />
   </a>
 </p>
-<ul>
-<li><img src="https://simpleicons.org/icons/rust.svg" alt="Rust" width="20" height="20"> Rust</li>
-<li><img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20" height="20"> Python</li>
-<li><img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="20" height="20"> C#</li>
-<li><img src="https://simpleicons.org/icons/go.svg" alt="Go" width="20" height="20"> Go</li>
-<li><img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20" height="20"> JavaScript</li>
-<li><img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="20" height="20"> PostgreSQL</li>
-<li><img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="20" height="20"> MongoDB</li>
-<li><img src="https://simpleicons.org/icons/rabbitmq.svg" alt="RabbitMQ" width="20" height="20"> RabbitMQ</li>
-<li><img src="https://nats.io/img/nats-icon-color.svg" alt="NATS" width="20" height="20"> NATS</li>
-<li><img src="https://simpleicons.org/icons/git.svg" alt="Git" width="20" height="20"> Git</li>
-<li><img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="20" height="20"> Docker</li>
-<li><img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="20" height="20"> Linux</li>
-<li><img src="https://simpleicons.org/icons/terminal.svg" alt="Bash" width="20" height="20"> Bash</li>
-<li><img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="20" height="20"> Kubernetes</li>
-<li><img src="https://simpleicons.org/icons/terraform.svg" alt="Terraform" width="20" height="20"> Terraform</li>
-</ul>
+<h3>Netrunning Gear - Data Systems</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,kafka&theme=dark" />
+  </a>
+</p>
+<h3>Fixer Tools - Deployment Arsenal</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,terraform&theme=dark" />
+  </a>
+</p>
+<h3>Street Tech - System Utilities</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,bash&theme=dark" />
+  </a>
+</p>
 
 <h2>Проекты</h2>
 <ul>
