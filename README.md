@@ -37,36 +37,8 @@
 <h2>Контакты</h2>
 <ul>
 <li><strong>GitHub</strong>: <a href="https://github.com/GoodGame563">GoodGame563</a></li>
-<li><strong>Email</strong>: (укажите, если есть)</li>
+<li><strong>Email</strong>: radiongolubin@yandex.ru</li>
 </ul>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" />
 
-<h2>Статус Системы</h2>
-<table border="1">
-<tr>
-<th>Параметр</th>
-<th>Статус</th>
-</tr>
-<tr>
-<td>Состояние Сервиса</td>
-<td>АКТИВЕН</td>
-</tr>
-<tr>
-<td>Система</td>
-<td>ЗАЩИЩЕНА</td>
-</tr>
-<tr>
-<td>Целостность Данных</td>
-<td>ОТЛИЧНАЯ</td>
-</tr>
-<tr>
-<td>Безопасность</td>
-<td>Все системы в норме</td>
-</tr>
-<tr>
-<td>Общий Статус Системы</td>
-<td>СТАБИЛЬНЫЙ</td>
-</tr>
-</table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" />
 <img src="https://raw.githubusercontent.com/GoodGame563/GoodGame563/output/snake.svg" alt="Snake animation" />
