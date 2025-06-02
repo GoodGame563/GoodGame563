@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h2>Контакты</h2>
+<h2>Contacts</h2>
 <ul>
 <li><strong>GitHub</strong>: <a href="https://github.com/GoodGame563">GoodGame563</a></li>
 <li><strong>Email</strong>: radiongolubin@yandex.ru</li>
