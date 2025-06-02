@@ -34,21 +34,12 @@
   </a>
 </p>
 
-<h2>Проекты</h2>
-<ul>
-<li><a href="https://github.com/GoodGame563/rust_project">rust_project</a>: Командная утилита на Rust для управления задачами.</li>
-<li><a href="https://github.com/GoodGame563/python_webapp">python_webapp</a>: Веб-приложение на Python с использованием Flask.</li>
-<li><a href="https://github.com/GoodGame563/go_microservice">go_microservice</a>: Микросервис на Go для обработки запросов.</li>
-<li><a href="https://github.com/GoodGame563/js_react_app">js_react_app</a>: Фронтенд-приложение на React.js.</li>
-</ul>
-<p>(Замените описания на свои, если доступны другие проекты.)</p>
-
 <h2>Контакты</h2>
 <ul>
 <li><strong>GitHub</strong>: <a href="https://github.com/GoodGame563">GoodGame563</a></li>
 <li><strong>Email</strong>: (укажите, если есть)</li>
-<li><strong>Другие Платформы</strong>: (укажите, если есть)</li>
 </ul>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" />
 
 <h2>Статус Системы</h2>
 <table border="1">
