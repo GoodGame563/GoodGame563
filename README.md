@@ -1,5 +1,3 @@
-    <title>Rodion - Arasaka Profile</title>
-
     <h1 style="text-align: center; text-transform: uppercase; color: #ff0000; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000; font-family: 'Courier New', Courier, monospace; font-size: 2.5em;">Rodion</h1>
     <p style="text-align: center;"><img src="https://example.com/arasaka-glitch-logo.png" alt="Arasaka Logo" style="width: 150px;"></p>
 
