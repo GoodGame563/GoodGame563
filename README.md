@@ -6,7 +6,6 @@
 <ul>
 <li><strong>Role</strong>: Programmer</li>
 <li><strong>Location</strong>: Training at College of Information Technology (KAI)</li>
-<li><strong>Level</strong>: [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/GoodGame563) </li>
 </ul>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&repeat=false&width=402&lines=Technologies" alt="Typing SVG" /></h2>
