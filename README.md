@@ -71,4 +71,4 @@
 </tr>
 </table>
 
-<p>Этот профиль является частью базы данных アラサカ (Arasaka). Все данные подлежат строгому контролю и защите.</p>
+<img src="https://raw.githubusercontent.com/GoodGame563/GoodGame563/output/snake.svg" alt="Snake animation" />
