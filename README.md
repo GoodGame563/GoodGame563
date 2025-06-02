@@ -10,25 +10,25 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Technologies" alt="Typing SVG" /></h2>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Cyberware+-+Programming+Interfaces" alt="Typing SVG" /></h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,py,cs,go,js&theme=dark" />
   </a>
 </p>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Netrunning+Gear+-+Data+Systems" alt="Typing SVG" /></h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,kafka&theme=dark" />
   </a>
 </p>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Fixer+Tools+-+Deployment+Arsenal" alt="Typing SVG" /></h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,terraform&theme=dark" />
   </a>
 </p>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Street+Tech+-+System+Utilities" alt="Typing SVG" /></h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,bash&theme=dark" />
   </a>
