@@ -4,8 +4,8 @@
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&repeat=false&width=467&lines=About+Me" alt="Typing SVG" /></a></h2>
 <ul>
-<li><strong>Роль</strong>: Программист</li>
-<li><strong>Локация</strong>: Найт Сити</li>
+<li><strong>Role</strong>: Programmer</li>
+<li><strong>Location</strong>: Training at College of Information Technology (KAI)</li>
 </ul>
 
 <h2>Технологии</h2>
