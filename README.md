@@ -1,4 +1,4 @@
-<h1>Rodion</h1>
+<h1 align="center">Hi there, I'm Rodion</h1>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Stalinist+One&duration=4000&pause=1000&color=E60000&center=true&vCenter=true&width=435&lines=Wake+the+f***+Up+Samurai;+we+have+a+city+to+burn" alt="Typing SVG" />
 <p><img src="https://example.com/arasaka-glitch-logo.png" alt="Arasaka Logo"></p>
 
