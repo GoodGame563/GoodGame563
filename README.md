@@ -2,13 +2,13 @@
 <h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Stalinist+One&duration=4000&pause=1000&color=E60000&center=true&vCenter=true&width=435&lines=Wake+the+f***+Up+Samurai;+we+have+a+city+to+burn" alt="Typing SVG" /></h1>
 <p><img src="https://github.com/GoodGame563/GoodGame563/blob/main/Thumbnails-11.png" alt="Arasaka Logo"></p>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&repeat=false&width=467&lines=About+Me" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&width=467&lines=About+Me" alt="Typing SVG" /></a></h2>
 <ul>
 <li><strong>Role</strong>: Programmer</li>
 <li><strong>Location</strong>: Training at College of Information Technology (KAI)</li>
 </ul>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&repeat=false&width=402&lines=Technologies" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Technologies" alt="Typing SVG" /></h2>
 <h3>Cyberware - Programming Interfaces</h3>
 <p align="center">
   <a href="https://skillicons.dev">
