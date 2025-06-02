@@ -40,5 +40,6 @@
 <li><strong>Email</strong>: radiongolubin@yandex.ru</li>
 </ul>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GoodGame563&theme=2077" />
 
 <img src="https://raw.githubusercontent.com/GoodGame563/GoodGame563/output/snake.svg" alt="Snake animation" />
