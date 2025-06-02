@@ -9,6 +9,12 @@
 </ul>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&repeat=false&width=402&lines=Technologies" alt="Typing SVG" /></h2>
+<h3>Cyberware - Programming Interfaces</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=dark" />
+  </a>
+</p>
 <ul>
 <li><img src="https://simpleicons.org/icons/rust.svg" alt="Rust" width="20" height="20"> Rust</li>
 <li><img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20" height="20"> Python</li>
