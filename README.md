@@ -70,5 +70,5 @@
 <td>СТАБИЛЬНЫЙ</td>
 </tr>
 </table>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" />
 <img src="https://raw.githubusercontent.com/GoodGame563/GoodGame563/output/snake.svg" alt="Snake animation" />
