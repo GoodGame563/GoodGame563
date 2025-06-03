@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h2>Contacts</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Contacts" alt="Typing SVG" /></h2>
 <ul>
 <li><strong>GitHub</strong>: <a href="https://github.com/GoodGame563">GoodGame563</a></li>
 <li><strong>Email</strong>: radiongolubin@yandex.ru</li>
