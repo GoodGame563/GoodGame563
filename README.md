@@ -18,7 +18,7 @@
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Netrunning+Gear+-+Data+Systems" alt="Typing SVG" /></h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,kafka&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,nats&theme=dark" />
   </a>
 </p>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Fixer+Tools+-+Deployment+Arsenal" alt="Typing SVG" /></h3>
