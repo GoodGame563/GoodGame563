@@ -89,7 +89,7 @@ Whether it's managing complex asynchronous data pipelines, working with message 
   </a>
   
   <p align="center">
-    <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://t.me/@goodgame563"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="mailto:radiongolubin@yandex.ru"><img src="https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" /></a>
     <a href="https://github.com/GoodGame563"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
