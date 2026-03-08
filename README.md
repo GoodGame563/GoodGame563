@@ -22,6 +22,13 @@
     <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs&theme=dark" />
   </a>
 </p>
+### 🗄️ Databases & Storage
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&theme=dark" />
+  </a>
+</p>
+
 ### 🛠️ Architecture & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,6 +37,12 @@
 </p>
 
 <br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Stats+%26+Activity" alt="Stats" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
