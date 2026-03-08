@@ -22,12 +22,20 @@
     <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs&theme=dark" />
   </a>
 </p>
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Netrunning+Gear+-+Data+Systems" alt="Typing SVG" /></h3>
+### 🛠️ Architecture & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,nats&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,github&theme=dark" />
   </a>
 </p>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Stats+%26+Activity" alt="Stats" />
+  </a>
+</div>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Fixer+Tools+-+Deployment+Arsenal" alt="Typing SVG" /></h3>
 <p align="left">
   <a href="https://skillicons.dev">
