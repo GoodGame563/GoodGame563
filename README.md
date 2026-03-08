@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs&theme=dark" />
   </a>
 </p>
+
 ### 🗄️ Databases & Storage
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,36 +39,29 @@
 
 <br>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Stats+%26+Activity" alt="Stats" />
+<p align="center">
+  <a href="https://github.com/GoodGame563">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" alt="Repo Stats" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Stats+%26+Activity" alt="Stats" />
-  </a>
-</div>
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Fixer+Tools+-+Deployment+Arsenal" alt="Typing SVG" /></h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,terraform&theme=dark" />
-  </a>
-</p>
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=1000&color=E1E616&multiline=true&repeat=false&width=462&lines=Street+Tech+-+System+Utilities" alt="Typing SVG" /></h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,bash&theme=dark" />
+  <a href="https://github.com/GoodGame563">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GoodGame563&theme=2077" alt="Commit Stats" />
   </a>
 </p>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Contacts" alt="Typing SVG" /></h2>
-<ul>
-<li><strong>GitHub</strong>: <a href="https://github.com/GoodGame563">GoodGame563</a></li>
-<li><strong>Email</strong>: radiongolubin@yandex.ru</li>
-</ul>
-<h2><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=12E60F&multiline=true&repeat=false&width=402&lines=Information" alt="Typing SVG" /></h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoodGame563&theme=2077" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GoodGame563&theme=2077" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GoodGame563/GoodGame563/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/GoodGame563/GoodGame563/output/snake.svg" alt="Snake animation" />
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Contacts" alt="Contacts" />
+  </a>
+  
+  <p align="center">
+    <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:radiongolubin@yandex.ru"><img src="https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" /></a>
+    <a href="https://github.com/GoodGame563"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
