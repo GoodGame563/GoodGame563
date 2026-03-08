@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Rodion</h1>
 <h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Stalinist+One&duration=4000&pause=1000&color=E60000&center=true&vCenter=true&width=435&lines=Wake+the+f***+Up+Samurai;+we+have+a+city+to+burn" alt="Typing SVG" /></h1>
 <p><img src="https://github.com/GoodGame563/GoodGame563/blob/main/Thumbnails-11.png" alt="Arasaka Logo"></p>
-<a href="https://github.com/GoodGame563">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Stalinist+One&duration=3500&pause=1000&color=E60000&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;HighLoad+%26+Microservices;Rust+%E2%80%A2+Python+%E2%80%A2+C%23;AI+Integration+%26+API+Gateways" alt="Typing SVG" />
-</a>
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=12E60F&center=true&vCenter=true&multiline=true&width=467&lines=About+Me" alt="Typing SVG" /></a></h2>
 <ul>
@@ -11,8 +8,11 @@
 <li><strong>Location</strong>: Training at College of Information Technology (KAI)</li>
 </ul>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Technologies" alt="Typing SVG" /></h2>
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&duration=4000&pause=4000&color=E1E616&multiline=true&repeat=false&width=462&lines=Cyberware+-+Programming+Interfaces" alt="Typing SVG" /></h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Tech+Stack" alt="Technologies" />
+  </a>
+</div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,py,cs,go,js&theme=dark" />
