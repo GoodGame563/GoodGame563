@@ -32,27 +32,41 @@ Whether it's managing complex asynchronous data pipelines, working with message 
 ### 💻 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,cs,go,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,python,cs,go,ts,js&theme=dark" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs,express&theme=dark" />
   </a>
 </p>
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases & Message Brokers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,kafka&theme=dark" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/NATS-27A16C?style=for-the-badge&logo=nats&logoColor=white" alt="NATS" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/MinIO-C7202C?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
 </p>
 
-### 🛠️ Architecture & DevOps
+### 🛠️ Architecture, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,nginx&theme=dark" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
 </p>
 
 <br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=4000&color=12E60F&center=true&vCenter=true&multiline=true&width=402&lines=Stats+%26+Activity" alt="Stats" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/GoodGame563">
